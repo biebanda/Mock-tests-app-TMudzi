@@ -1,0 +1,28 @@
+const categories = {
+    9: { title: 'Situational Judgement', description: 'You\'ll be given a hypothetical work-related situation and asked to choose a preferred course of action from a list of options.' },
+    10: { title: 'Numerical Reasoning', description: 'Test your ability to interpret and analyze numerical data, graphs, and charts.' },
+    11: { title: 'Verbal Reasoning', description: 'Assess your ability to understand and evaluate written information.' },
+    12: { title: 'Logical Reasoning', description: 'Measure your ability to think logically and solve abstract problems.' },
+    13: { title: 'Critical Thinking', description: 'Evaluate your skills in analyzing arguments, assumptions, and conclusions.' },
+    14: { title: 'Personality Assessment', description: 'Understand your personality traits and how they influence your behavior at work.' },
+    15: { title: 'Emotional Intelligence', description: 'Assess your ability to recognize, understand, and manage emotions effectively.' },
+    16: { title: 'Abstract Reasoning', description: 'Evaluate your ability to identify patterns and relationships in visual data.' },
+    17: { title: 'Mechanical Reasoning', description: 'Test your understanding of mechanical and physical concepts.' },
+    18: { title: 'Spatial Reasoning', description: 'Measure your ability to visualize and manipulate objects in space.' },
+    19: { title: 'Cognitive Ability', description: 'Assess your overall mental capabilities, including memory, attention, and problem-solving skills.' },
+    20: { title: 'Aptitude for Learning', description: 'Evaluate how quickly and effectively you can learn new skills and concepts.' },
+    21: { title: 'Leadership Potential', description: 'Measure your ability to lead, motivate, and inspire others.' },
+    22: { title: 'Teamwork Assessment', description: 'Assess your ability to collaborate and work effectively in a team environment.' },
+    23: { title: 'Conflict Resolution', description: 'Evaluate how well you manage and resolve workplace conflicts.' },
+    24: { title: 'Time Management', description: 'Assess your ability to prioritize tasks and manage your time effectively.' },
+    25: { title: 'Workplace Ethics', description: 'Test your understanding of ethical behavior and decision-making in the workplace.' },
+    26: { title: 'Customer Service Skills', description: 'Evaluate your ability to handle customer interactions and resolve complaints.' },
+    27: { title: 'Attention to Detail', description: 'Measure your ability to notice and correct errors in work processes.' },
+    28: { title: 'Problem-Solving', description: 'Assess your ability to identify and solve complex problems effectively.' },
+    29: { title: 'Interpersonal Skills', description: 'Evaluate your ability to interact and communicate effectively with others.' },
+    30: { title: 'Workplace Adaptability', description: 'Measure your ability to adjust to new challenges and changing environments.' },
+    31: { title: 'Decision-Making Skills', description: 'Assess your ability to make sound decisions under pressure.' },
+    32: { title: 'Resilience and Stress Tolerance', description: 'Evaluate your ability to cope with stress and bounce back from setbacks.' },
+};
+
+export default categories;
