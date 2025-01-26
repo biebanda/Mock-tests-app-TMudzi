@@ -60,7 +60,7 @@ const HomeBanner = () => {
                         Brush up your knowledge<br/> by taking <strong> Online Tests </strong>
                     </Heading>
                     <Link to='/quizzes'>
-                        <Button Label="AtoZ Quiz" />
+                        <Button Label="AtoZ Pyschometric Tests" />
                     </Link>
                 </Column>
                 <Column>
